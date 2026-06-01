@@ -1,0 +1,11 @@
+{
+  "landing": {
+    "title": "Design System Playground",
+    "subtitle": "Build and preview themes in real time"
+  },
+
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}
