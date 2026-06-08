@@ -1,12 +1,12 @@
 import { RouterProvider } from "react-router";
 import { router } from "./routes";
-import { PaletteProvider } from "./context/PaletteProvider";
+import { DesignSystemProvider } from "./context/DesignSystemProvider";
 
 function App() {
   return (
-    <PaletteProvider>
+    <DesignSystemProvider>
       <RouterProvider router={router} />
-    </PaletteProvider>
+    </DesignSystemProvider>
   );
 }
 
