@@ -1,1 +1,36 @@
-@import "tailwindcss"
+@import "tailwindcss";
+
+@theme {
+  --color-primary: var(--ds-primary);
+  --color-secondary: var(--ds-secondary);
+  --color-accent: var(--ds-accent);
+
+  --color-background: var(--ds-background);
+  --color-surface: var(--ds-surface);
+  --color-text: var(--ds-text);
+  --color-border: var(--ds-border);
+
+  --radius-sm: var(--ds-radius-sm);
+  --radius-md: var(--ds-radius-md);
+  --radius-lg: var(--ds-radius-lg);
+}
+
+:root {
+  --ds-primary: #3b82f6;
+  --ds-secondary: #6b7280;
+  --ds-accent: #a855f7;
+
+  --ds-background: #ffffff;
+  --ds-surface: #f8fafc;
+  --ds-text: #111827;
+  --ds-border: #e5e7eb;
+
+  --ds-radius-sm: 6px;
+  --ds-radius-md: 12px;
+  --ds-radius-lg: 18px;
+}
+
+body {
+  background: var(--color-background);
+  color: var(--color-text);
+}

@@ -4,8 +4,26 @@
     "subtitle": "Build and preview themes in real time"
   },
 
+  "navigation": {
+    "playground": "Playground",
+    "dashboard": "Dashboard",
+    "analytics": "Analytics",
+    "ecommerce": "E-commerce",
+    "admin": "Admin"
+  },
+
+  "theme": {
+    "colors": "Colors",
+    "radius": "Radius",
+    "spacing": "Spacing",
+    "typography": "Typography",
+    "shadows": "Shadows",
+    "export": "Export"
+  },
+
   "common": {
     "save": "Save",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+    "language": "Language"
   }
 }

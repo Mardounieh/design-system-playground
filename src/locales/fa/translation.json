@@ -1,11 +1,29 @@
 {
   "landing": {
-    "title": "زمین بازی سیستم طراحی",
-    "subtitle": "تم‌ها را به صورت زنده بساز و مشاهده کن"
+    "title": "زمین بازی دیزاین سیستم",
+    "subtitle": "ساخت و پیش‌نمایش تم‌ها به صورت زنده"
+  },
+
+  "navigation": {
+    "playground": "پلی‌گراند",
+    "dashboard": "داشبورد",
+    "analytics": "تحلیل داده",
+    "ecommerce": "فروشگاه",
+    "admin": "مدیریت"
+  },
+
+  "theme": {
+    "colors": "رنگ‌ها",
+    "radius": "گردی گوشه‌ها",
+    "spacing": "فاصله‌گذاری",
+    "typography": "تایپوگرافی",
+    "shadows": "سایه‌ها",
+    "export": "خروجی"
   },
 
   "common": {
     "save": "ذخیره",
-    "cancel": "لغو"
+    "cancel": "انصراف",
+    "language": "زبان"
   }
 }
